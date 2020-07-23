@@ -1,8 +1,3 @@
-# Nguyen Duy Tam
-# 23/01/1999
-# 02/10/1994
-# 27/07/1989
-
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
